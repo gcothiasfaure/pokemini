@@ -1,6 +1,6 @@
-#Projet Java Pokémon
+#Projet Java PokÃ©mon
 
-Lors de notre projet **Java**, nous avons dévelopé dans ce langage de programmation une version simplifiée du célèbre jeu vidéo **Pokémon**.
+Lors de notre projet **Java**, nous avons dÃ©velopÃ© dans ce langage de programmation une version simplifiÃ©e du cÃ©lÃ¨bre jeu vidÃ©o **PokÃ©mon**.
 
 ##Installation 
 
@@ -26,7 +26,7 @@ Dans *Select root directory* cliquez sur *Browse* et selectionnez **pokemon_proj
 
 Lors du jeu, il faudra alterner jeu sur l'interface et sur la console.
 
-Nous vous conseillons d'afficher les deux fenêtres sur le même écran. 
+Nous vous conseillons d'afficher les deux fenÃªtres sur le mÃªme Ã©cran. 
 
 ##Auteurs
 
@@ -34,8 +34,8 @@ Gaspard Cothias Faure
 
 Walid Houfaf Khoufaf
 
-Félix Quinton
+FÃ©lix Quinton
 
 ##Informations
-Pour plus d'inforrmations sur le jeu-vidéo Pokémon original : ![Lien de la page Wikipédia du jeu vidéo Pokémon](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+Pour plus d'inforrmations sur le jeu-vidÃ©o PokÃ©mon original : ![Lien de la page WikipÃ©dia du jeu vidÃ©o PokÃ©mon](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
 
