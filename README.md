@@ -40,5 +40,4 @@ Félix Quinton
 
 ## Informations
 
-Pour plus d'inforrmations sur le jeu-vidéo Pokémon original : ![Lien de la page Wikipédia du jeu vidéo Pokémon](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
-
+Pour plus d'informations [ici](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jeux_vid%C3%A9o)) sur le jeu-vidéo Pokémon original.
