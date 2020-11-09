@@ -2,7 +2,7 @@
 
 Lors de notre projet **Java**, nous avons dévelopé dans ce langage de programmation une version simplifiée du célèbre jeu vidéo **Pokémon**.
 
-## Installation 
+## Rapport d'analyse 
 
 Veuillez trouver sur cette branche notre rapport d'analyse.
 
